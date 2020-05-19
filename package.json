@@ -1,0 +1,7 @@
+{
+    "name": "node-typescript-boilerplate",
+    "version": "0.0.1",
+    "author": "Bruno Pinheiro <brunogcpinheiro@gmail.com>",
+    "description": "Node Typescript Boilerplate",
+    "license": "MIT"
+}
